@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="C:\Users\kudko\OneDrive\Рабочий стол\POLINOM\mp2-lab5-polinoms\listlib\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="C:\Users\kudko\OneDrive\Рабочий стол\POLINOM\mp2-lab5-polinoms\listlib\THeadList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kudko\OneDrive\Рабочий стол\POLINOM\mp2-lab5-polinoms\listlib\TList.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+    <ClInclude Include="C:\Users\kudko\OneDrive\Рабочий стол\POLINOM\mp2-lab5-polinoms\listlib\TNode.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="C:\Users\kudko\OneDrive\Рабочий стол\POLINOM\mp2-lab5-polinoms\listlib\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{CA7759F7-8AD2-3C00-8612-C579A74FE3E9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{A079C40C-4175-3780-AF9D-2BAAB3AEEC6C}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
